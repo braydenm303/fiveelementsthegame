@@ -1,2 +1,2 @@
-# fiveelementsthegame
-Blog for the development of Five Elements (project name: "Itsutsu").
+# Five Elements the Game
+Blog for the development of Five Elements (project name: "Itsutsu")
